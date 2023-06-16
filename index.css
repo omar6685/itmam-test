@@ -1,0 +1,663 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.index .overlap-group-container {
+  height: 2955px;
+  margin-left: -953px;
+  position: relative;
+  width: 3100px;
+}
+
+.index .overlap-group4 {
+  height: 2955px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3100px;
+}
+
+.index .rectangle-41 {
+  height: 1084px;
+  left: 953px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.index .group-32 {
+  display: flex;
+  height: 20px;
+  left: 1904px;
+  position: absolute;
+  top: 530px;
+  width: 18px;
+}
+
+.index .group-31 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-width: 18.06px;
+}
+
+.index .union-container {
+  height: 20px;
+  margin-top: 0;
+  position: relative;
+  width: 18px;
+}
+
+.index .union-146 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.index .union-147 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.index .union-148 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 14px;
+}
+
+.index .union-149 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.index .union-150 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 18px;
+}
+
+.index .union-151 {
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 16px;
+}
+
+.index .union-152 {
+  height: 7px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 14px;
+}
+
+.index .union-153 {
+  height: 7px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.index .union-170 {
+  height: 2063px;
+  left: 874px;
+  object-fit: cover;
+  position: absolute;
+  top: 893px;
+  width: 2226px;
+}
+
+.index .group-33 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 116px;
+  left: 2322px;
+  min-height: 499px;
+  opacity: 0;
+  position: absolute;
+  top: 1213px;
+  width: 616px;
+}
+
+.index .whats-app_-image_202 {
+  height: 275px;
+  margin-right: 0;
+  object-fit: cover;
+  width: 232px;
+}
+
+.index .whats-app_-image_202-1 {
+  height: 170px;
+  object-fit: cover;
+  width: 661px;
+}
+
+.index .group-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 2062px;
+  min-height: 735px;
+  opacity: 0;
+  padding: 1.6px 0;
+  position: absolute;
+  top: 0;
+}
+
+.index .text-4 {
+  align-self: flex-end;
+  direction: rtl;
+  height: 92px;
+  letter-spacing: 0;
+  line-height: 55px;
+  text-align: center;
+  text-shadow: 0px 20px 10px #00000029;
+  transform: rotate(1.00deg);
+  width: 191px;
+}
+
+.index .text-3 {
+  align-self: center;
+  direction: rtl;
+  height: 75px;
+  letter-spacing: 0;
+  line-height: 250px;
+  margin-bottom: -175px;
+  margin-left: 105.05px;
+  margin-top: 68px;
+  text-align: center;
+  text-shadow: 0px 20px 15px #00000029;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.index .text-2 {
+  direction: rtl;
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 250px;
+  margin-bottom: -178px;
+  margin-left: 115.5px;
+  margin-top: 161px;
+  text-align: center;
+  text-shadow: 0px 20px 15px #00000029;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.index .text-1 {
+  direction: rtl;
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 250px;
+  margin-bottom: -179px;
+  margin-left: 0;
+  margin-top: 98px;
+  text-align: center;
+  text-shadow: 0px 20px 15px #00000029;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.index .text_label {
+  color: var(--solitude);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 281px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: right;
+  text-shadow: 0px 8px 8px #00000029;
+  top: 674px;
+  width: 1336px;
+}
+
+.index .text-5 {
+  color: var(--solitude);
+  direction: rtl;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 116px;
+  left: 1301px;
+  letter-spacing: 0;
+  line-height: 80px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 8px #00000029;
+  top: 474px;
+  width: 457px;
+}
+
+.index .text-6 {
+  color: var(--solitude);
+  direction: rtl;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 79px;
+  left: 433px;
+  letter-spacing: 0;
+  line-height: 50px;
+  opacity: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 8px 8px #00000029;
+  top: 624px;
+  width: 1186px;
+}
+
+.index .group-36 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1801px;
+  min-height: 254px;
+  opacity: 0;
+  position: absolute;
+  top: 1164px;
+  width: 920px;
+}
+
+.index .group-26 {
+  align-items: flex-end;
+  display: flex;
+  gap: 9px;
+  height: 196px;
+  margin-right: 26.79px;
+  min-width: 743px;
+}
+
+.index .text-container {
+  height: 198px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 431px;
+}
+
+.index .text-9 {
+  direction: rtl;
+  height: 198px;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 169px;
+}
+
+.index .text-10 {
+  direction: rtl;
+  height: 100px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 319px;
+}
+
+.index .text-8 {
+  direction: rtl;
+  height: 198px;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-bottom: -2px;
+  text-align: center;
+  width: 135px;
+}
+
+.index .text-7 {
+  direction: rtl;
+  height: 198px;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-bottom: -2px;
+  text-align: center;
+  width: 159px;
+}
+
+.index .flex-row {
+  align-items: flex-start;
+  display: flex;
+  min-width: 920px;
+}
+
+.index .telephone {
+  height: 58px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.index .whatsapp-1 {
+  height: 58px;
+  margin-left: 226px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.index .email {
+  height: 58px;
+  margin-left: 229px;
+  object-fit: cover;
+  width: 59px;
+}
+
+.index .twitter {
+  height: 58px;
+  margin-left: 231px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.index .group-40 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 985px;
+  min-height: 605px;
+  opacity: 0;
+  position: absolute;
+  top: 405px;
+  width: 1367px;
+}
+
+.index .text-16 {
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  text-align: center;
+  width: 335px;
+}
+
+.index .text-15 {
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-right: 89px;
+  margin-top: 17px;
+  text-align: center;
+  width: 362px;
+}
+
+.index .text-13 {
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-right: 183px;
+  margin-top: 17px;
+  text-align: center;
+  width: 421px;
+}
+
+.index .text-17 {
+  align-self: center;
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 318.0px;
+  margin-top: 27px;
+  text-align: center;
+  width: 383px;
+}
+
+.index .text-12 {
+  align-self: center;
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 66.0px;
+  margin-top: 17px;
+  text-align: center;
+  width: 447px;
+}
+
+.index .text-14 {
+  align-self: center;
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-right: 227.0px;
+  margin-top: 27px;
+  text-align: center;
+  width: 454px;
+}
+
+.index .text-18 {
+  align-self: flex-start;
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 178px;
+  margin-top: 27px;
+  text-align: center;
+  width: 539px;
+}
+
+.index .text-11 {
+  align-self: flex-start;
+  direction: rtl;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 27px;
+  text-align: center;
+  width: 621px;
+}
+
+.index .group-41 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 942px;
+  min-height: 679px;
+  opacity: 0;
+  position: absolute;
+  top: 465px;
+  width: 1753px;
+}
+
+.index .text-24 {
+  align-self: flex-end;
+  direction: rtl;
+  height: 55px;
+  letter-spacing: 0;
+  line-height: 35px;
+  text-align: center;
+  width: 242px;
+}
+
+.index .text-container-1 {
+  align-self: flex-end;
+  height: 108px;
+  margin-right: 96px;
+  margin-top: 30px;
+  position: relative;
+  width: 468px;
+}
+
+.index .text-23 {
+  direction: rtl;
+  height: 55px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 53px;
+  width: 402px;
+}
+
+.index .text-28 {
+  direction: rtl;
+  height: 55px;
+  left: 212px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 256px;
+}
+
+.index .text-19 {
+  direction: rtl;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 626.0px;
+  margin-top: 14px;
+  text-align: center;
+  width: 491px;
+}
+
+.index .text-26 {
+  direction: rtl;
+  height: 55px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 389.0px;
+  margin-top: 14px;
+  text-align: center;
+  width: 416px;
+}
+
+.index .text-20 {
+  direction: rtl;
+  height: 55px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 190.0px;
+  margin-top: 14px;
+  text-align: center;
+  width: 465px;
+}
+
+.index .text-22 {
+  direction: rtl;
+  height: 68px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-right: 142.0px;
+  margin-top: 14px;
+  text-align: center;
+  width: 591px;
+}
+
+.index .text-container-2 {
+  height: 109px;
+  margin-right: 517.0px;
+  margin-top: 14px;
+  position: relative;
+  width: 708px;
+}
+
+.index .text-25 {
+  direction: rtl;
+  height: 55px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 536px;
+}
+
+.index .text-27 {
+  direction: rtl;
+  height: 56px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 53px;
+  width: 633px;
+}
+
+.index .text-21 {
+  align-self: flex-start;
+  direction: rtl;
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-top: 14px;
+  text-align: center;
+  width: 826px;
+}
+
+.index .whatsapp_image_-container {
+  height: 399px;
+  left: 120px;
+  position: absolute;
+  top: 52px;
+  width: 755px;
+}
+
+.index .whats-app_-image_202-2 {
+  height: 170px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 228px;
+  width: 661px;
+}
+
+.index .whats-app_-image_202-3 {
+  height: 275px;
+  left: 522px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 232px;
+}

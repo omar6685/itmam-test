@@ -1,0 +1,46 @@
+:root { 
+  --ceramic: #fcfcfc;
+  --hint-of-red: #f9f9f9;
+  --solitude: #ebf8fe;
+  --white: #ffffff;
+ 
+  --font-size-l: 50px;
+  --font-size-m: 35px;
+  --font-size-s: 30px;
+  --font-size-xl: 55px;
+  --font-size-xxl: 70px;
+  --font-size-xxxl: 80px;
+ 
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+}
+.segoeui-regular-normal-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-hint-of-red-35px {
+  color: var(--hint-of-red);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-white-55px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-ceramic-70px {
+  color: var(--ceramic);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
